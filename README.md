@@ -29,7 +29,7 @@
 ```
  ## 3. 核心方法
  
-+ 1. Doctoral类实现接口中的博士生的缴费功能和获取缴费成功的信息的方法。
+ 1. Doctoral类实现接口中的博士生的缴费功能和获取缴费成功的信息的方法。
   
   ```
          public void payment() {
@@ -77,7 +77,7 @@
   
 
   ```
- + 2.调用博士类并且通过Scanner类进行输出姓名，性别，年龄，和缴费中的方法。
+  2. 调用博士类并且通过Scanner类进行输出姓名，性别，年龄，和缴费中的方法。
       ```
         Scanner sc=new Scanner(System.in);
 		    System.out.println("请输入姓名");
@@ -92,14 +92,11 @@
 	}
        ```
    
-   ## 4. 实验结果截图
-   
-  https://github.com/baishaowei-eng/course-system/blob/main/bbc/course.png
-  ## 5.框架图
-   https://github.com/baishaowei-eng/course-system/blob/main/bbc/class.png
+  ## 4.实验截图
+ 
   ## 5.实验感想
 
-  1. 通过这个实验学习到了子类如何继承父类的方法来进行操作。
-  2. 学会了如何进行逻辑判断来进行选课和退课的操作。
-  3. 学会了用构造方法来获取自己想要的值。
-  4. 学会了如何使用toString构造方法来进行传参，并且输出相应的值。
+  1. 通过这个实验学习到了如何通过实现接口中的方法，实现博士生所具有的方法。
+  2. 学会了如何通过while循环语句循环出现异常时，程序依然可以进行运行。
+  3. 学会了用show方法来减轻main主类的代码。
+  4. 学会了如何通过try---catch语句来进行获取代码的异常。

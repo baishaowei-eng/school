@@ -72,10 +72,7 @@
 	public void paysalary() {
 		System.out.println("每个月发放的薪水为："+doctoral);
 	}
-   
-	 
   
-
   ```
   2. 调用博士类并且通过Scanner类进行输出姓名，性别，年龄，和缴费中的方法。
       ```

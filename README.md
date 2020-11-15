@@ -87,6 +87,7 @@
 	     System.out.println("性别："+sex);
 	     System.out.println("年龄："+age);
 	}
+	
        ```
    
   ## 4.实验截图
